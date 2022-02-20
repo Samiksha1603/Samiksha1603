@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samiksha Wadibhasme</h1>
-<h3 align="center">I'm a University student in Information Technology at VESIT Mumbai</h3>
+<h3 align="center">I'm a student in Information Technology at VESIT Mumbai</h3>
 
-- 🔭 I’m currently working on a [Flutter Project](https://github.com/Samiksha1603/Flutter-Art-Awesomeness-Shop)
-
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **UI / UX Designing**
 
 
 <h3 align="left">Languages and Tools:</h3>
